@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @OmiruRathnayake.
-- 👀 I’m interested in Networking and CyberSec.
+- 👀 I’m interested in Networking and CyberSec (lol about that...).
 - 🌱 I’m currently learning Computer Science(Bsc.) at University of Colombo School of Computing(UCSC).
 - 💞️ I’m looking to collaborate on ...(update*)
 - 📫 How to reach me www.linkedin.com/in/omiru-rathnayake-315984377
 - ⚡ Fun fact: I love games like COD , CS2 , Appex legends...
+
+![JigglaBang](https://i.ibb.co/v4Z7HWQQ/Screenshot-20251102-040053-Instagram.jpg)
 
 <!---
 OmiruRathnayake/OmiruRathnayake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
