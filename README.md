@@ -5,7 +5,7 @@
 - 📫 How to reach me www.linkedin.com/in/omiru-rathnayake-315984377
 - ⚡ Fun fact: I love games like COD , CS2 , Appex legends...
 
-![JigglaBang](https://i.ibb.co/v4Z7HWQQ/Screenshot-20251102-040053-Instagram.jpg)
+![JigglaBang](./jigglabang.jpg)
 
 <!---
 OmiruRathnayake/OmiruRathnayake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
